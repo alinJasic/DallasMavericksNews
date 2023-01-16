@@ -1,7 +1,25 @@
-    body {
-        background-image: url('Mavericks.jpg');
+body {
+  background-image: url('Mavericks.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   color : snow;
-    }
+  }
+
+#nav > h1 {
+  font-size: 2rem;
+  color: whitesmoke;
+  padding-left: 2rem;
+}
+
+.color{
+  color: whitesmoke;
+  padding-left: 1rem;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+:hover.color{
+  background-color: whitesmoke;
+  color: black;
+}
