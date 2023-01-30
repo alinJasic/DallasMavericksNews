@@ -1,3 +1,25 @@
 body{
     background-image: url('Dallas.jpg');
+    margin-left: 10%;
+    margin-right: 10%;
 }
+
+.spacer{
+    margin-top: 40px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+td, th{
+    border: 2px solid;
+    text-align: left;
+    padding: 8px; 
+}
+
+tr:nth-child(even) {
+    background-color: lightblue;
+  }
