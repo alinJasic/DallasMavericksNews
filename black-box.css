@@ -33,12 +33,12 @@ header{
     font-family: sans-serif;
     font-weight: 500;
     font-size: 16px;
-    color: #0065b0;
+    color: black;
     text-decoration: none;
 }
 
 .nav_links li a:hover{
-    color: greenyellow;
+    color: whitesmoke;
 }
 
 .navBar{
